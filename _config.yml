@@ -14,7 +14,7 @@ timezone: Asia/Ulaanbaatar
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Gonchigsumlaa # the main title
+title: Gonchigsumla # the main title
 
 tagline: A text-focused Blog # it will display as the subtitle
 
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn: https://cdn.com
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://cdn.discordapp.com/attachments/986868501325164564/986870522379907102/20181115_134921.jpg?ex=67a2fc4b&is=67a1aacb&hm=d8df12472b1307b24dc21a518d86537321dd71f4f1d5a49147399d8c15bf4e08&
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
