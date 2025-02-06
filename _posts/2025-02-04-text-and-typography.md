@@ -14,6 +14,8 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
+![Desktop View]([/assets/img/sample/mockup.png](https://media.discordapp.net/attachments/986868501325164564/986871612991225886/20181225_180131.jpg?ex=67a5a04f&is=67a44ecf&hm=eb73b7315bf97f7011153d1feb57f7ab7d587f3c5d295a7a82ae20c726e284a5&=&format=webp&width=326&height=671)){: width="700" height="400" }
+
 ## Headings
 
 <!-- markdownlint-capture -->
